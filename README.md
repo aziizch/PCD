@@ -33,7 +33,7 @@ The system implements the **R4 chain** (Rewriter → Retriever → Reranker → 
 | Mohamed Aziz CHAOUACHI | Developer / Researcher |
 | Othman AYARI | Developer / Researcher |
 | Ahmed Youssef EL ASKRI | Developer / Researcher |
-| **Supervisor: Dr. Hatem AOUADI** | Academic Supervisor |
+
 
 ---
 
